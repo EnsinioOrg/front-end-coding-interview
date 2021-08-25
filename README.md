@@ -15,7 +15,7 @@ Ah, e fique tranquilo(a), sabemos que um dos recursos mais importantes de um pro
 ## :dart: Requisitos de ambiente
 
 - Você deve possuir o Node.js versão LTS 14+ instalado em seu computador;
-- Você deve possuir um projeto React "limpo", gerado com o [create-react-app](https://create-react-app.dev/docs/getting-started/), e com as seguintes dependências instaladas: styled-components, redux e react-redux.
+- Você deve possuir um projeto React "limpo", gerado com o [create-react-app](https://create-react-app.dev/docs/getting-started/).
 
 ## :page_facing_up: Critérios de avaliação
 

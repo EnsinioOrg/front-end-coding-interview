@@ -1,6 +1,6 @@
 ## :rocket: Coding interview para Desenvolvedor(a) Front-end na Ensinio
 
-Serão avaliados aspectos relacionados aos conhecimentos nas melhores práticas de código, performance, princípios arquiteturais básicos de software, comunicabilidade, resolução de problemas, usabilidade e autonomia, além do domínio das tecnologias HTML, CSS, JavaScript, React e do ecossistema que as cerca.
+Serão avaliados aspectos relacionados aos conhecimentos nas melhores práticas de código, princípios arquiteturais básicos de software, comunicabilidade, resolução de problemas, usabilidade e autonomia, além do domínio das tecnologias HTML, CSS, JavaScript, React e do ecossistema que as cerca.
 
 ## :eyes: Como funciona
 

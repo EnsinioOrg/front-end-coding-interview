@@ -4,7 +4,7 @@ Serão avaliados aspectos relacionados aos conhecimentos nas melhores práticas 
 
 ## :eyes: Como funciona
 
-Você participará de uma videoconferência, com duração máxima prevista de 1h e 10 minutos, sendo os 10 primeiros minutos para instruções acerca de como funcionará o teste e o que você deverá desenvolver. O teste será conduzido por 2 pessoas da Ensinio com conhecimento técnico, o(a) líder de capítulo do front-end e um(a) outro(a) desenvolvedor(a) do time.
+Você participará de uma videoconferência, com duração máxima prevista de 1h e 10 minutos, sendo os 10 primeiros minutos para instruções acerca de como funcionará o teste e o que você deverá desenvolver. O teste será conduzido por 2 pessoas da Ensinio.
 
 No momento da videoconferência, você deve estar utilizando um computador onde possa programar, e **deve estar com o ambiente de desenvolvimento pronto** para iniciar o teste, **com as dependências já instaladas** (os requisitos de ambiente serão descritos a seguir, neste documento). Pedimos também que você esteja com a câmera ligada. **Você deve compartilhar sua tela durante toda a resolução do teste**.
 
